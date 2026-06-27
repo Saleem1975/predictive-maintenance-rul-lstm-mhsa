@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "A novel approach for remaining useful life prediction of high-reliability equipment based on long short-term memory and multi-head self-attention mechanism"
+message: "If you use this work, please cite the published paper."
+authors:
+  - family-names: Al-Dahidi
+    given-names: Sameer
+  - family-names: Rashed
+    given-names: Mohammad
+  - family-names: Abu-Shams
+    given-names: Mohammad
+  - family-names: Mellal
+    given-names: Mohamed Arezki
+  - family-names: Alrbai
+    given-names: Mohammad
+  - family-names: Ramadan
+    given-names: Saleem
+  - family-names: Zio
+    given-names: Enrico
+doi: 10.1002/qre.3445
+year: 2023

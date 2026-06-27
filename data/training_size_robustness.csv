@@ -1,0 +1,10 @@
+model,case,training_trajectories,RMSPE,AI,alpha_lambda,combined_metric
+LSTM,Case I: 20 trajectories,20,44.9003,0.3266,0.5556,26.3939
+LSTM,Case II: 10 trajectories,10,47.807,0.3294,0.5626,27.9908
+LSTM,Case III: 5 trajectories,5,73.705,0.4829,0.3738,95.2171
+MHSA,Case I: 20 trajectories,20,47.6283,0.342,0.5287,30.8093
+MHSA,Case II: 10 trajectories,10,50.1802,0.3456,0.5386,32.1988
+MHSA,Case III: 5 trajectories,5,45.1876,0.3447,0.5272,29.5451
+Proposed LSTM-MHSA,Case I: 20 trajectories,20,44.8034,0.3276,0.5594,26.2381
+Proposed LSTM-MHSA,Case II: 10 trajectories,10,44.7829,0.3256,0.5674,25.6985
+Proposed LSTM-MHSA,Case III: 5 trajectories,5,46.6441,0.3315,0.5643,27.4012

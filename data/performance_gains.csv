@@ -1,0 +1,7 @@
+comparison,case,combined_metric_gain_percent
+Proposed vs LSTM,Case I: 20 trajectories,0.5902879074331542
+Proposed vs LSTM,Case II: 10 trajectories,8.18947654229247
+Proposed vs LSTM,Case III: 5 trajectories,71.22239597719316
+Proposed vs MHSA,Case I: 20 trajectories,14.837078414634544
+Proposed vs MHSA,Case II: 10 trajectories,20.1880194292955
+Proposed vs MHSA,Case III: 5 trajectories,7.256363999444923

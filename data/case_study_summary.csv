@@ -1,0 +1,9 @@
+item,value
+Equipment type,Aluminium electrolytic capacitors
+Application context,Electric vehicle powertrains
+Health indicator 1,Equivalent Series Resistance (ESR)
+Health indicator 2,Working / aging temperature
+Training trajectories,20 complete run-to-failure trajectories
+Validation trajectories,5 complete run-to-failure trajectories
+Test trajectories,50 complete run-to-failure trajectories
+Failure threshold,Normalized ESR reaches 200%
